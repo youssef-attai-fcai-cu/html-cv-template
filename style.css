@@ -215,14 +215,14 @@ li.skill-row p .knob {
   background-color: white;
 }
 
-.progess-bar {
+.progress-bar {
   position: relative;
   border: 2px solid white;
   border-radius: 8px;
   height: 14px;
   width: 150px;
 }
-.progess-bar-fill {
+.progress-bar-fill {
   position: absolute;
   top: 0;
   left: 0;
@@ -231,15 +231,15 @@ li.skill-row p .knob {
   height: 100%;
 }
 
-.progess-bar-fill.fill-80 {
+.progress-bar-fill.fill-80 {
   width: 80%;
 }
 
-.progess-bar-fill.fill-70 {
+.progress-bar-fill.fill-70 {
   width: 70%;
 }
 
-.progess-bar-fill.fill-60 {
+.progress-bar-fill.fill-60 {
   width: 60%;
 }
 
