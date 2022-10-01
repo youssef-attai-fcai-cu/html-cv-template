@@ -1,6 +1,6 @@
 # GDSC - Task 1
 
-## HTML CV template [...](https://youssef-attai.github.io/html-cv-template/)
+## HTML CV template [View on GitHub Page](https://youssef-attai.github.io/html-cv-template/)
 
 # Inspiration
 
